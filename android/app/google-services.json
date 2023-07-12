@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150133094145",
+    "project_id": "udemyflutterchat-55205",
+    "storage_bucket": "udemyflutterchat-55205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150133094145:android:e4112c36765d6a5f61cd00",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150133094145-bss0tgc9rulspk8d8gl6t76ir0ucks64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Nu2FZiCDUisOB7A2a8ARBM-vealuBEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150133094145-bss0tgc9rulspk8d8gl6t76ir0ucks64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
